@@ -1,2 +1,3 @@
-# mini-quiz-platform-agg0
+# Mini Quiz Platform Agg0
+
 A repository to test GitHub automation for issue management.
